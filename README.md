@@ -31,9 +31,9 @@
   ### 🔥 **Lenguajes Principales**
   
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Appsheet](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Appsheet](https://img.shields.io/badge/Appshet-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=23bac4)
+  ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=python&logoColor=23bac4)
   
   ### ⚙️ **Herramientas & DevOps**
   
